@@ -1,0 +1,37 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/anvita/pico_ws/install/whycon/include/**",
+        "/home/anvita/pico_ws/install/swift_msgs/include/**",
+        "/home/anvita/pico_ws/install/rotors_control/include/**",
+        "/home/anvita/pico_ws/install/pid_msg/include/**",
+        "/home/anvita/pico_ws/install/mav_system_msgs/include/**",
+        "/home/anvita/pico_ws/install/mav_state_machine_msgs/include/**",
+        "/home/anvita/pico_ws/install/mav_planning_msgs/include/**",
+        "/home/anvita/pico_ws/install/mav_msgs/include/**",
+        "/home/anvita/colcon_ws/install/realsense_gazebo_plugin/include/**",
+        "/home/anvita/colcon_ws/install/linkattacher_msgs/include/**",
+        "/home/anvita/turtlesim_ws/install/turtlesim/include/**",
+        "/home/anvita/ros2_ws/install/my_robot_interfaces/include/**",
+        "/home/anvita/pico_ws2/install/whycon/include/**",
+        "/home/anvita/pico_ws2/install/waypoint_navigation/include/**",
+        "/home/anvita/pico_ws2/install/rc_msgs/include/**",
+        "/home/anvita/pico_ws2/install/pid_msg/include/**",
+        "/home/anvita/pico_ws2/install/crsf_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
